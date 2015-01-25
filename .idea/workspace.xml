@@ -2,54 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7a3af03-2a99-4523-b858-4c80aa2b49d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/FieldSelection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/FindCriteriaTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/FindTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/FruitPeekerApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/InsertTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/fruit/fruitChooser.ftl" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__commons_io_commons_io_1_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__junit_junit_3_8_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__log4j_log4j_1_2_14.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__org_eclipse_jetty_aggregate_jetty_webapp_7_3_0_v20110203.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__org_freemarker_freemarker_2_3_19.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__org_mongodb_mongo_java_driver_2_10_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__org_slf4j_slf4j_api_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\libraries\Maven__spark_spark_0_9_9_3_SNAPSHOT.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\M101J.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\java\com\tengen\App.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\java\com\tengen\HelloFreeMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\java\com\tengen\HelloMogoSparkMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\java\com\tengen\HelloMongoDB.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\java\com\tengen\HelloSparkJava.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\java\com\tengen\HelloSparkPlusFreemarker.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\main\resources\ololo.ftl" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\src\test\java\com\tengen\AppTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\App.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloFreeMarker.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloMogoSparkMarker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloMogoSparkMarker.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloMongoDB.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloSparkJava$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloSparkJava.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloSparkPlusFreemarker$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\com\tengen\HelloSparkPlusFreemarker.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\classes\ololo.ftl" afterPath="" />
-      <change type="DELETED" beforePath="C:\WORKSPACE\Mongo\mongoDB\M101J\target\test-classes\com\tengen\AppTest.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tengen/HelloMogoSparkMarker.java" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/HelloMogoSparkMarker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/DotNotationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/FindModifyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/SortSkipLimitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tengen/UpdateRemoveTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="M101J.iws" />
@@ -75,36 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloMongoDB.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloMongoDB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="544">
-              <caret line="16" column="42" selection-start-line="15" selection-start-column="12" selection-end-line="16" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloSparkPlusFreemarker.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloSparkPlusFreemarker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="543" max-vertical-offset="918">
-              <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloMogoSparkMarker.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/HelloMogoSparkMarker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="986" max-vertical-offset="1139">
-              <caret line="58" column="11" selection-start-line="51" selection-start-column="8" selection-end-line="58" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fruitChooser.ftl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/fruit/fruitChooser.ftl">
           <provider selected="true" editor-type-id="text-editor">
@@ -164,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FieldSelection.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FieldSelection.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/FieldSelection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7909836" vertical-offset="385" max-vertical-offset="969">
-              <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="969">
+              <caret line="49" column="0" selection-start-line="11" selection-start-column="4" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,12 +102,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ololo.ftl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/ololo.ftl">
+      <file leaf-file-name="DotNotationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/DotNotationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1088">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortSkipLimitTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/SortSkipLimitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="857" max-vertical-offset="1173">
+              <caret line="61" column="0" selection-start-line="11" selection-start-column="4" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UpdateRemoveTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/UpdateRemoveTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="874" max-vertical-offset="1207">
+              <caret line="63" column="0" selection-start-line="14" selection-start-column="4" selection-end-line="63" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindModifyTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/FindModifyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.33766234" vertical-offset="1010" max-vertical-offset="1513">
+              <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -214,6 +178,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tengen/FindTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tengen/FindCriteriaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tengen/FieldSelection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tengen/DotNotationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tengen/SortSkipLimitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tengen/UpdateRemoveTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tengen/FindModifyTest.java" />
       </list>
     </option>
   </component>
@@ -402,107 +370,14 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\WORKSPACE\Mongo\mongoDB\src\main\resources\fruit" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FieldSelection">
-    <configuration default="false" name="FruitPeekerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tengen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tengen.FruitPeekerApp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M101J" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="InsertTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tengen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tengen.InsertTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M101J" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FindTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tengen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tengen.FindTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M101J" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="FindCriteriaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.tengen.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tengen.FindCriteriaTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="M101J" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.FindModifyTest">
     <configuration default="false" name="FieldSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -511,6 +386,94 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.tengen.FieldSelection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="M101J" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DotNotationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tengen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tengen.DotNotationTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="M101J" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SortSkipLimitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tengen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tengen.SortSkipLimitTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="M101J" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UpdateRemoveTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tengen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tengen.UpdateRemoveTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="M101J" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FindModifyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tengen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.tengen.FindModifyTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -739,19 +702,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FruitPeekerApp" />
-      <item index="1" class="java.lang.String" itemvalue="Application.InsertTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.FindTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindCriteriaTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FieldSelection" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FieldSelection" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DotNotationTest" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SortSkipLimitTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FindModifyTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FieldSelection" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindCriteriaTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.FindTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.InsertTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FruitPeekerApp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FindModifyTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.UpdateRemoveTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SortSkipLimitTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DotNotationTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FieldSelection" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -771,12 +734,17 @@
       <workItem from="1422044646904" duration="1778000" />
       <workItem from="1422101307011" duration="5878000" />
       <workItem from="1422114857662" duration="5407000" />
-      <workItem from="1422218000307" duration="3235000" />
+      <workItem from="1422218000307" duration="7377000" />
     </task>
+    <task id="LOCAL-00001" summary="Week two&#10;">
+      <created>1422221304998</created>
+      <updated>1422221304998</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16298000" />
+    <option name="totallyTimeSpent" value="20440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -853,6 +821,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Week two&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week two&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1242,8 +1212,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/FieldSelection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7909836" vertical-offset="385" max-vertical-offset="969">
-          <caret line="34" column="72" selection-start-line="34" selection-start-column="72" selection-end-line="34" selection-end-column="72" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="657" max-vertical-offset="969">
+          <caret line="49" column="0" selection-start-line="11" selection-start-column="4" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/DotNotationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="1088">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/SortSkipLimitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="857" max-vertical-offset="1173">
+          <caret line="61" column="0" selection-start-line="11" selection-start-column="4" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/UpdateRemoveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="874" max-vertical-offset="1207">
+          <caret line="63" column="0" selection-start-line="14" selection-start-column="4" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tengen/FindModifyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33766234" vertical-offset="1010" max-vertical-offset="1513">
+          <caret line="64" column="35" selection-start-line="64" selection-start-column="35" selection-end-line="64" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
