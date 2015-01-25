@@ -48,5 +48,14 @@ public class HelloMogoSparkMarker {
                 return writer.toString();
             }
         });
+
+        Spark.get(new Route("/test") {
+            @Override
+            public Object handle(Request request, Response response) {
+                StringBuilder str = new StringBuilder();
+                for (String ff : (String[])request.queryParams().toArray()) str.append(ff).append("\n");
+return str.toString();
+            }
+        });
     }
 }
